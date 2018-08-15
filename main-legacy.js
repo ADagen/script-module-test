@@ -1,1 +1,1 @@
-console.log('main-legacy.js');
+document.body.innerHTML += 'main-legacy.js executed<br>';
